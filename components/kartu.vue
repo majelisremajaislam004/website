@@ -1,464 +1,414 @@
 <template>
     <main>
-        <div class="container">
-            <div class="row justify-content-center" style="margin-top: 2rem;">
-                <h2>Kegiatan dan Acara Periode 2021/2022</h2>
-            </div>
-        </div>
-        <div class="wrapper">
-            <div class="card">
-            <input type="checkbox" id="card1" class="more" aria-hidden="true">
-            <div class="content">
-                <div class="front" style="background-image: url('https://t3.ftcdn.net/jpg/03/68/43/52/360_F_368435250_3yGifHORFLDoI3CNJtt7DxqiBX5hLbKE.jpg')">
-                    <div class="inner">
-                        <h2>PERINGATAN 1 MUHARAM</h2>
-                        <label for="card1" class="button" aria-hidden="true">
-                            Details
-                        </label>
-                    </div>
-                </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>150</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>1</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>20</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>crew</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>5</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>presenter</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>Kegiatan Istigosah Bersama Seluruh Rohis Kota Tasikmalaya</p>
-                            <p>Lebih dari 10 Sekolah Jenjang SMK/SMA/MA Sekota Tasikmalaya Ikut Berpartisi-pasi Dalam Kegiatan Istigosah Tersebut yang Berlangsung Selama 1 Hari.</p>
-                        </div>
-                        <div class="location">Mesjid Agung Tasikmalaya</div>
-                        <div class="price">1 day</div>
-                        <label for="card1" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
-                    </div>
+        <body class="text-center">
+            <div class="container">
+                <div class="row justify-content-center" style="margin-top: 40rem;">
+                    <h2><b> Kegiatan dan Acara Periode 2021/2022 </b></h2>
                 </div>
             </div>
-        </div>
-        </div>
-        <div class="container">
-            <div class="row justify-content-center" style="margin-top: 2rem;">
-                <h2>Kegiatan dan Acara Periode 2020/2021</h2>
-            </div>
-        </div>
-        <div class="wrapper">
-        <div class="card">
-            <input type="checkbox" id="card1" class="more" aria-hidden="true">
-            <div class="content">
-                <div class="front" style="background-image: url('https://cdn1-production-images-kly.akamaized.net/xOVy3dNNijsAIFI6asgMWi2cQeg=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3098129/original/060208900_1586415860-close-up-of-text-on-paper-318451.jpg')">
-                    <div class="inner">
-                        <h2>ROHIS MA'RIFAT ISTIGOSAH</h2>
-                        <label for="card1" class="button" aria-hidden="true">
-                            Details
-                        </label>
+            <div class="wrapper">
+                <div class="card">
+                    <input type="checkbox" id="card7" class="more" aria-hidden="true">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/03/31/1991384358.png')">
+                            <div class="inner">
+                                <h2>SMARTREN RAMADHAN 2022</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="far fa-star"></i>
+                                </div>
+                                <label for="card7" class="button" aria-hidden="true">
+                                    Details
+                                </label>
+                            </div>
+                        </div>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>5</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>4</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>3</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>1</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>bath</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, accusamus.</p>
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates earum nostrum ipsam
+                                        ullam, reiciendis nam consectetur? Doloribus voluptate architecto possimus perferendis
+                                        tenetur nemo amet temporibus, enim soluta nam, debitis.</p>
+                                </div>
+                                <div class="location">Warsaw, Poland</div>
+                                <div class="price">38€ / day</div>
+                                <label for="card7" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>150</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
+                <div class="card">
+                    <input type="checkbox" id="card8" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('')">
+                            <div class="inner">
+                                <h2>Keputrian</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star-half-alt"></i>
+                                    <i class="far fa-star"></i>
+                                </div>
+                                <label for="card8" class="button" aria-hidden="true">
+                                    Details
+                                </label>
                             </div>
                         </div>
-                        <div class="info">
-                            <span>1</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>4</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>3</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>1</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>bath</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem unde ea voluptas
+                                        fuga
+                                        odio vel veniam eveniet, explicabo autem earum?</p>
+                                    <ul>
+                                        <li>Lorem ipsum dolor sit amet.</li>
+                                        <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
+                                        <li>Lorem ipsum dolor sit amet consectetur.</li>
+                                        <li>Lorem ipsum dolor sit amet.</li>
+                                    </ul>
+                                </div>
+                                <div class="location">Warsaw, Poland</div>
+                                <div class="price">42€ / day</div>
+                                <label for="card8" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
                             </div>
                         </div>
-                        <div class="info">
-                            <span>20</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>crew</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>5</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>presenter</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>Kegiatan Istigosah Bersama Seluruh Rohis Kota Tasikmalaya</p>
-                            <p>Lebih dari 10 Sekolah Jenjang SMK/SMA/MA Sekota Tasikmalaya Ikut Berpartisi-pasi Dalam Kegiatan Istigosah Tersebut yang Berlangsung Selama 1 Hari.</p>
-                        </div>
-                        <div class="location">Mesjid Agung Tasikmalaya</div>
-                        <div class="price">1 day</div>
-                        <label for="card1" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="card">
-            <input type="checkbox" id="card2" class="more">
-            <div class="content">
-                <div class="front" style="background-image: url('https://i0.wp.com/bosmeal.com/wp-content/uploads/2021/06/Pengertian-Qurban-Adalah.jpg?resize=637%2C510&ssl=1')">
-                    <div class="inner">
-                        <h2>PERAYAN IDUL ADHA</h2>
-                        <div class="rating">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star-half-alt"></i>
-                            <i class="far fa-star"></i>
+                <div class="card">
+                    <input type="checkbox" id="card9" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://hmtg.ft.ugm.ac.id/wp-content/uploads/sites/1207/4.-Logo-Kerohanian-1.jpg')">
+                            <div class="inner">
+                                <h2>Kerohanian</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <label for="card9" class="button" aria-hidden="true">
+                                    Details
+                                </label>
+                            </div>
                         </div>
-                        <label for="card2" class="button" aria-hidden="true">
-                            Details
-                        </label>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>8</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>7</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>5</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>baths</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
+                                        totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
+                                        temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
+                                        facilis
+                                        laudantium nam!</p>
+                                    <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
+                                        repudiandae
+                                        aspernatur explicabo numquam! Tenetur!</p>
+                                </div>
+                                <div class="location">Cracow, Poland</div>
+                                <div class="price">60€ / day</div>
+                                <label for="card9" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>4</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
+                <div class="card">
+                    <input type="checkbox" id="card10" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://arifatuzuhro.files.wordpress.com/2014/07/wpid-gambar-islami-01-jpg.jpeg')">
+                            <div class="inner">
+                                <h2>LOMBA-LOMBA ISLAMI</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <label for="card10" class="button" aria-hidden="true">
+                                    Details
+                                </label>
                             </div>
                         </div>
-                        <div class="info">
-                            <span>3</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>8</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>7</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>5</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>baths</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
+                                        totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
+                                        temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
+                                        facilis
+                                        laudantium nam!</p>
+                                    <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
+                                        repudiandae
+                                        aspernatur explicabo numquam! Tenetur!</p>
+                                </div>
+                                <div class="location">Cracow, Poland</div>
+                                <div class="price">60€ / day</div>
+                                <label for="card10" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
                             </div>
                         </div>
-                        <div class="info">
-                            <span>2</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>beds</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>1</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>bath</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem unde ea voluptas
-                                fuga
-                                odio vel veniam eveniet, explicabo autem earum?</p>
-                            <ul>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
-                                <li>Lorem ipsum dolor sit amet consectetur.</li>
-                                <li>Lorem ipsum dolor sit amet.</li>
-                            </ul>
-                        </div>
-                        <div class="location">Warsaw, Poland</div>
-                        <div class="price">42€ / day</div>
-                        <label for="card2" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="card">
-            <input type="checkbox" id="card3" class="more">
-            <div class="content">
-                <div class="front" style="background-image: url('https://www.muslimobsession.com/wp-content/uploads/2020/08/Muharram.jpeg')">
-                    <div class="inner">
-                        <h2>PERAYAAN 1 MUHARRAM</h2>
-                        <div class="rating">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
+                <div class="card">
+                    <input type="checkbox" id="card25" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://awsimages.detik.net.id/community/media/visual/2020/10/28/maulid-nabi-1.jpeg?w=591')">
+                            <div class="inner">
+                                <h2>PERINGATAN Maulid Nabi Muhammad Saw</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <label for="card25" class="button" aria-hidden="true">
+                                    Details
+                                </label>
+                            </div>
                         </div>
-                        <label for="card3" class="button" aria-hidden="true">
-                            Details
-                        </label>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>8</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>7</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>5</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>baths</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
+                                        totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
+                                        temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
+                                        facilis
+                                        laudantium nam!</p>
+                                    <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
+                                        repudiandae
+                                        aspernatur explicabo numquam! Tenetur!</p>
+                                </div>
+                                <div class="location">Cracow, Poland</div>
+                                <div class="price">60€ / day</div>
+                                <label for="card25" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>8</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
+                <div class="card">
+                    <input type="checkbox" id="card23" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://wallpaperaccess.com/full/681486.jpg')">
+                            <div class="inner">
+                                <h2>Pelantikan Pengurus Baru Periode 2022/2023</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <label for="card23" class="button" aria-hidden="true">
+                                    Details
+                                </label>
                             </div>
                         </div>
-                        <div class="info">
-                            <span>7</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>8</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>7</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>5</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>baths</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
+                                        totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
+                                        temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
+                                        facilis
+                                        laudantium nam!</p>
+                                    <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
+                                        repudiandae
+                                        aspernatur explicabo numquam! Tenetur!</p>
+                                </div>
+                                <div class="location">Cracow, Poland</div>
+                                <div class="price">60€ / day</div>
+                                <label for="card23" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
                             </div>
                         </div>
-                        <div class="info">
-                            <span>5</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>beds</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>2</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>baths</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
-                                totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
-                                temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
-                                facilis
-                                laudantium nam!</p>
-                            <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
-                                repudiandae
-                                aspernatur explicabo numquam! Tenetur!</p>
-                        </div>
-                        <div class="location">Cracow, Poland</div>
-                        <div class="price">60€ / day</div>
-                        <label for="card3" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <input type="checkbox" id="card3" class="more">
-            <div class="content">
-                <div class="front" style="background-image: url('https://arifatuzuhro.files.wordpress.com/2014/07/wpid-gambar-islami-01-jpg.jpeg')">
-                    <div class="inner">
-                        <h2>LOMBA-LOMBA ISLAMI</h2>
-                        <div class="rating">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <label for="card3" class="button" aria-hidden="true">
-                            Details
-                        </label>
-                    </div>
-                </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>8</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>7</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>5</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>beds</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>2</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>baths</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
-                                totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
-                                temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
-                                facilis
-                                laudantium nam!</p>
-                            <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
-                                repudiandae
-                                aspernatur explicabo numquam! Tenetur!</p>
-                        </div>
-                        <div class="location">Cracow, Poland</div>
-                        <div class="price">60€ / day</div>
-                        <label for="card3" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <input type="checkbox" id="card3" class="more">
-            <div class="content">
-                <div class="front" style="background-image: url('https://awsimages.detik.net.id/community/media/visual/2020/10/28/maulid-nabi-1.jpeg?w=591')">
-                    <div class="inner">
-                        <h2>PERINGATAN 1 MUHARRAM</h2>
-                        <div class="rating">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <label for="card3" class="button" aria-hidden="true">
-                            Details
-                        </label>
-                    </div>
-                </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>8</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>7</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>5</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>beds</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>2</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>baths</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
-                                totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
-                                temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
-                                facilis
-                                laudantium nam!</p>
-                            <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
-                                repudiandae
-                                aspernatur explicabo numquam! Tenetur!</p>
-                        </div>
-                        <div class="location">Cracow, Poland</div>
-                        <div class="price">60€ / day</div>
-                        <label for="card3" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <input type="checkbox" id="card3" class="more">
-            <div class="content">
-                <div class="front" style="background-image: url('https://www.kindpng.com/picc/m/106-1062044_vector-moon-with-islam-mosque-mosque-vector-png.png')">
-                    <div class="inner">
-                        <h2>PELANTIKAN PENGURUS MA'RIFAT PERIODE 2020/2021</h2>
-                        <div class="rating">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                        <label for="card3" class="button" aria-hidden="true">
-                            Details
-                        </label>
-                    </div>
-                </div>
-                <div class="back">
-                    <div class="inner">
-                        <div class="info">
-                            <span>8</span>
-                            <div class="icon">
-                                <i class="fas fa-users"></i>
-                                <span>people</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>7</span>
-                            <div class="icon">
-                                <i class="fas fa-door-open"></i>
-                                <span>rooms</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>5</span>
-                            <div class="icon">
-                                <i class="fas fa-bed"></i>
-                                <span>beds</span>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <span>2</span>
-                            <div class="icon">
-                                <i class="fas fa-bath"></i>
-                                <span>baths</span>
-                            </div>
-                        </div>
-                        <div class="description">
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
-                                totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
-                                temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
-                                facilis
-                                laudantium nam!</p>
-                            <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
-                                repudiandae
-                                aspernatur explicabo numquam! Tenetur!</p>
-                        </div>
-                        <div class="location">Cracow, Poland</div>
-                        <div class="price">60€ / day</div>
-                        <label for="card3" class="button return" aria-hidden="true">
-                            <i class="fas fa-arrow-left"></i>
-                        </label>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+        </body>
     </main>
 </template>
 

@@ -43,7 +43,7 @@ export default {
     'bootstrap-vue/nuxt',
     ['nuxt-supabase', {
       supabaseUrl: 'https://pihfffngbkxrraotcrhg.supabase.co',
-      supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBpaGZmZm5nYmt4cnJhb3RjcmhnIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY0ODY5OTg2OSwiZXhwIjoxOTY0Mjc1ODY5fQ.z0sA6R60W4kEgUSTEmZIZYGIHvgmV5_Ws5lSM3GCkW4'
+      supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBpaGZmZm5nYmt4cnJhb3RjcmhnIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTAxNjU1NTMsImV4cCI6MTk2NTc0MTU1M30.cq4Jb8PTtj6ij3ZdPQWIGHDIW_bZc9C2ivdxgVO8HMI'
     }]
   ],
 

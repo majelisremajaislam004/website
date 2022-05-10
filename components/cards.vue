@@ -2,7 +2,7 @@
     <main>
         <body class="text-center">
             <div class="container">
-                <div class="row justify-content-center" style="margin-top: 26rem;">
+                <div class="row justify-content-center" style="margin-top: 68rem;">
                     <h2><b> Kegiatan dan Acara Periode 2020/2021 </b></h2>
                 </div>
             </div>
@@ -401,6 +401,143 @@
                                 <div class="location">Cracow, Poland</div>
                                 <div class="price">60€ / day</div>
                                 <label for="card6" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="card">
+                    <input type="checkbox" id="card18" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://i0.wp.com/bosmeal.com/wp-content/uploads/2021/06/Pengertian-Qurban-Adalah.jpg?resize=637%2C510&ssl=1')">
+                            <div class="inner">
+                                <h2>Keputrian</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star-half-alt"></i>
+                                    <i class="far fa-star"></i>
+                                </div>
+                                <label for="card18" class="button" aria-hidden="true">
+                                    Details
+                                </label>
+                            </div>
+                        </div>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>4</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>3</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>1</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>bath</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem unde ea voluptas
+                                        fuga
+                                        odio vel veniam eveniet, explicabo autem earum?</p>
+                                    <ul>
+                                        <li>Lorem ipsum dolor sit amet.</li>
+                                        <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
+                                        <li>Lorem ipsum dolor sit amet consectetur.</li>
+                                        <li>Lorem ipsum dolor sit amet.</li>
+                                    </ul>
+                                </div>
+                                <div class="location">Warsaw, Poland</div>
+                                <div class="price">42€ / day</div>
+                                <label for="card18" class="button return" aria-hidden="true">
+                                    <i class="fas fa-arrow-left"></i>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <input type="checkbox" id="card19" class="more">
+                    <div class="content">
+                        <div class="front" style="background-image: url('https://hmtg.ft.ugm.ac.id/wp-content/uploads/sites/1207/4.-Logo-Kerohanian-1.jpg')">
+                            <div class="inner">
+                                <h2>Kerohanian</h2>
+                                <div class="rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <label for="card19" class="button" aria-hidden="true">
+                                    Details
+                                </label>
+                            </div>
+                        </div>
+                        <div class="back">
+                            <div class="inner">
+                                <div class="info">
+                                    <span>8</span>
+                                    <div class="icon">
+                                        <i class="fas fa-users"></i>
+                                        <span>people</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>7</span>
+                                    <div class="icon">
+                                        <i class="fas fa-door-open"></i>
+                                        <span>rooms</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>5</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bed"></i>
+                                        <span>beds</span>
+                                    </div>
+                                </div>
+                                <div class="info">
+                                    <span>2</span>
+                                    <div class="icon">
+                                        <i class="fas fa-bath"></i>
+                                        <span>baths</span>
+                                    </div>
+                                </div>
+                                <div class="description">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa libero
+                                        totam nostrum consequatur autem quae provident quos alias fugit maxime nisi labore,
+                                        temporibus tempore illo natus voluptates aliquam ipsum officia quasi placeat aut
+                                        facilis
+                                        laudantium nam!</p>
+                                    <p>Quam, iusto.Neque ratione ut deserunt unde dicta nesciunt,
+                                        repudiandae
+                                        aspernatur explicabo numquam! Tenetur!</p>
+                                </div>
+                                <div class="location">Cracow, Poland</div>
+                                <div class="price">60€ / day</div>
+                                <label for="card19" class="button return" aria-hidden="true">
                                     <i class="fas fa-arrow-left"></i>
                                 </label>
                             </div>

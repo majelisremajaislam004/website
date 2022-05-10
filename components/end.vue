@@ -14,13 +14,13 @@
 
                 <ul class="list-unstyled mb-0">
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-book fa-fw fa-sm me-2"></i><p class="text-justify">Ma'rifat History</p></a>
+                    <NuxtLink class="card__link" style="text-decoration: none;" to="/marifat"><a style="text-decoration: none;" class="text-white"><i class="  fa-fw fa-sm me-2"></i><p class="text-justify">Ma'rifat History</p></a></NuxtLink>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-book fa-fw fa-sm me-2"></i><p class="text-justify">Organizational structure</p></a>
+                    <NuxtLink class="card__link" style="text-decoration: none;" to="/about"><a style="text-decoration: none;" class="text-white"><i class="  fa-fw fa-sm me-2"></i><p class="text-justify">Organizational structure</p></a></NuxtLink>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-user-edit fa-fw fa-sm me-2"></i><p class="text-justify">Activities and Events</p></a>
+                    <NuxtLink class="card__link" style="text-decoration: none;" to="/activation"><a style="text-decoration: none;" class="text-white"><i class="  fa-fw fa-sm me-2"></i><p class="text-justify">Activities and Events</p></a></NuxtLink>
                     </li>
                 </ul>
                 </div>
@@ -30,13 +30,13 @@
 
                 <ul class="list-unstyled">
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-shipping-fast fa-fw fa-sm me-2"></i><p class="text-justify">Rohis History</p></a>
+                    <NuxtLink class="card__link" to="/irma"></NuxtLink><a style="text-decoration: none;" class="text-white"><i class=" fa-fw fa-sm me-2"></i><p class="text-justify">Rohis History</p></a>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-backspace fa-fw fa-sm me-2"></i><p class="text-justify">Organizational structure</p></a>
+                    <NuxtLink class="card__link" to="/irma"></NuxtLink><a style="text-decoration: none;" class="text-white"><i class=" fa-fw fa-sm me-2"></i><p class="text-justify">Organizational structure</p></a>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="far fa-file-alt fa-fw fa-sm me-2"></i><p class="text-justify">Activities and Events</p></a>
+                    <NuxtLink class="card__link" to="/irma"></NuxtLink><a style="text-decoration: none;" class="text-white"><i class=" fa-fw fa-sm me-2"></i><p class="text-justify">Activities and Events</p></a>
                     </li>
                 </ul>
                 </div>
@@ -48,13 +48,13 @@
 
                 <ul class="list-unstyled">
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><p class="text-justify">Irma's History</p></a>
+                    <p class="text-justify">Irma's History</p>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><p class="text-justify">Organizational structure</p></a>
+                    <p class="text-justify">Organizational structure</p>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><p class="text-justify">activities and events</p></a>
+                    <p class="text-justify">activities and events</p>
                     </li>
                 </ul>
                 </div>
@@ -66,13 +66,13 @@
 
                 <ul class="list-unstyled">
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-at fa-fw fa-sm me-2"></i><p class="text-justify">Instagram</p> </a>
+                    <a style="text-decoration: none;" class="text-white"><i class=" fa-fw fa-sm me-2"></i><p class="text-justify">Instagram</p> </a>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-shipping-fast fa-fw fa-sm me-2"></i><p class="text-justify">Facebook</p></a>
+                    <a style="text-decoration: none;" class="text-white"><i class=" fa-fw fa-sm me-2"></i><p class="text-justify">Facebook</p></a>
                     </li>
                     <li>
-                    <a href="#!" style="text-decoration: none;" class="text-white"><i class="fas fa-envelope fa-fw fa-sm me-2"></i><p class="text-justify">Whatsapp</p></a>
+                    <a style="text-decoration: none;" class="text-white"><i class=" fa-fw fa-sm me-2"></i><p class="text-justify">Whatsapp</p></a>
                     </li>
                 </ul>
                 </div>

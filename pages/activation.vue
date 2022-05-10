@@ -3,10 +3,15 @@
         <div class="fixed-top">
             <navbar/>
         </div>
-        <div class="container" style="margin-top: 10rem;">
-            <cards/>
+        <div class="container">
+            <div style="margin-top: 2rem;">
+                <cards/>
+            </div>
+            <div style="margin-top: 60rem;">
+                <kartu/>
+            </div >
         </div>
-        <div style="margin-top: 34rem;">
+        <div style="margin-top: 45rem;">
             <end/>
         </div>
         

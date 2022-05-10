@@ -17,9 +17,9 @@
             </div>
             <div class="movie_social">
               <ul>
-                <li><i class="material-icons fa fa-share"><a href=""> Share </a></i></li>
-                <li><i class="material-icons fa fa-youtube-play"><a href=""> Watch </a></i></li>
-                <li><i class="material-icons fa fa-sign-in"><a href=""> Let's Join </a></i></li>
+                <li><i class="material-icons fa fa-share"><a href="https://www.whatsapp.com/"> Share </a></i></li>
+                <li><i class="material-icons fa fa-youtube-play"><a href="https://www.youtube.com/watch?v=H8Ehbqq9fkI"> Watch </a></i></li>
+                <li><i class="material-icons fa fa-sign-in"><a href="https://docs.google.com/forms/d/e/1FAIpQLScUXulsB9jZ5h2yHZPXFyjhwpb_cFfIDtxku_7Fnkj94LDL3g/viewform?usp=sf_link"> Let's Join </a></i></li>
               </ul>
             </div>
           </div>
